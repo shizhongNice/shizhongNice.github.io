@@ -1,0 +1,81 @@
+#EXTM3U
+
+#EXTINF:-1 CCTV-1(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 CCTV-1(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+
+#EXTINF:-1 CCTV-3(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 CCTV-3(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+
+#EXTINF:-1 CCTV-5(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 CCTV-5(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 CCTV-5HD(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 CCTV-5+(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 CCTV-5+(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+
+#EXTINF:-1 CCTV-6(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 CCTV-7(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 CCTV-7(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 CCTV-8(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 CCTV-8(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225795/index.m3u8
+#EXTINF:-1 CCTV-9(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 CCTV-9(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 CCTV-10(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 CCTV-11(黑龙江移动[鸡西]-720P)
+http://39.134.66.66/PLTV/88888888/224/3221225517/index.m3u8
+#EXTINF:-1 CCTV-12(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+
+#EXTINF:-1 CCTV-14(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 CCTV-15(黑龙江移动[鸡西]-720P)
+http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:-1 CCTV-16(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 CCTV-17(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
+
+#EXTINF:-1 北京卫视(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 江苏卫视(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 湖南卫视(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 浙江卫视(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 湖北卫视(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+#EXTINF:-1 天津卫视(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 深圳卫视(黑龙江移动[鸡西]-1080P)
+http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 湖南卫视(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 浙江卫视(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 江苏卫视(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 湖北卫视(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 东方卫视(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 深圳卫视(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 天津卫视(黑龙江移动[CDN]-1080P)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
