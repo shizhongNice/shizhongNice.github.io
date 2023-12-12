@@ -1,0 +1,15 @@
+{
+"urls":[
+{"name":"APP", "url":"https://shizhongnice.github.io/tvbox/tvbox18/app.json"},
+{"name":"南瓜", "url":"https://shizhongnice.github.io/tvbox/tvbox18/tv.json"},
+{"name":"饭太硬", "url":"https://shizhongnice.github.io/tvbox/tvbox18/fan.json"},
+{"name":"蜂蜜", "url":"https://shizhongnice.github.io/tvbox/tvbox18/fongmi.json"},
+
+{"name":"XXX", "url":"https://shizhongnice.github.io/tvbox/tvbox18/adult.json"},
+{"name":"XXX_h", "url":"https://shizhongnice.github.io/tvbox/tvbox18/h/h.json"},
+
+{"name":"香雅情", "url":"https://shizhongnice.github.io/tvbox/tvbox18/XYQTVBox/XYQTVBox.json"},
+{"name":"道长", "url":"https://shizhongnice.github.io/tvbox/tvbox18/XYQTVBox/drpy_js/drjs_config.json"}
+
+]
+}
