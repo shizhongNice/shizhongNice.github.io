@@ -1,15 +1,18 @@
 {
 "urls":[
-{"name":"APP", "url":"https://shizhongnice.github.io/tvbox/tvbox18/app.json"},
-{"name":"南瓜", "url":"https://shizhongnice.github.io/tvbox/tvbox18/tv.json"},
-{"name":"饭太硬", "url":"https://shizhongnice.github.io/tvbox/tvbox18/fan.json"},
-{"name":"蜂蜜", "url":"https://shizhongnice.github.io/tvbox/tvbox18/fongmi.json"},
+{"name":"APP", "url":"https://shizhongnice.github.io/tvbox/app.json"},
+{"name":"饭太硬fan", "url":"https://shizhongnice.github.io/tvbox/fan.json"},
+{"name":"蜂蜜", "url":"https://shizhongnice.github.io/tvbox/fongmi.json"},
 
-{"name":"XXX", "url":"https://shizhongnice.github.io/tvbox/tvbox18/adult.json"},
-{"name":"XXX_h", "url":"https://shizhongnice.github.io/tvbox/tvbox18/h/h.json"},
+{"name":"饭太硬fty", "url":"https://shizhongnice.github.io/iptv/fty/fty.json"},
+{"name":"XYQ", "url":"https://shizhongnice.github.io/iptv/XYQ/XYQTVBox.json"},
 
-{"name":"香雅情", "url":"https://shizhongnice.github.io/tvbox/tvbox18/XYQTVBox/XYQTVBox.json"},
-{"name":"道长", "url":"https://shizhongnice.github.io/tvbox/tvbox18/XYQTVBox/drpy_js/drjs_config.json"}
+{"name":"道长", "url":"https://shizhongnice.github.io/iptv/XYQ/drpy_js/drjs_config.json"},
+{"name":"qiaoji", "url":"https://shizhongnice.github.io/iptv/XYQ/qiaoji/qjtvbox.json"},
+{"name":"Yoursmile", "url":"https://shizhongnice.github.io/iptv/XYQ/Yoursmile/XC.json"},
+
+{"name":"XXX_h", "url":"https://shizhongnice.github.io/iptv/h/h.json"},
+{"name":"XXX_a", "url":"https://shizhongnice.github.io/iptv/h/adult.json"}
 
 ]
 }
