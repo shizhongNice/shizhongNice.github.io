@@ -55,6 +55,18 @@
 - [iptv_3_CQYX](https://shizhongnice.github.io/m3u/iptv_3_CQYX.m3u)
 - [iptv_3_Best](https://shizhongnice.github.io/m3u/iptv_3_Best.m3u)
 
+### TVBox
+
+- 主接口: https://shizhongnice.github.io/tvbox.json
+- APP： https://shizhongnice.github.io/tvbox/app.json
+- 饭太硬fan：https://shizhongnice.github.io/tvbox/fan.json
+- 蜂蜜：https://shizhongnice.github.io/tvbox/fongmi.json
+- 饭太硬fty：https://shizhongnice.github.io/iptv/fty/fty.json
+- 香雅情：https://shizhongnice.github.io/iptv/XYQ/XYQTVBox.json
+- 道长: https://shizhongnice.github.io/iptv/XYQ/drpy_js/drjs_config.json
+- qiaoji: https://shizhongnice.github.io/iptv/XYQ/qiaoji/qjtvbox.json
+- Yoursmile: https://shizhongnice.github.io/iptv/XYQ/Yoursmile/XC.json
+
 ## 最后的话
 
 感谢你来到我的奇妙世界！我希望你能在这里找到一些有趣的事物和灵感。如果你有任何问题或建议，请随时告诉我。祝你探险愉快！
