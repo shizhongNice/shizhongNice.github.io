@@ -1,200 +1,103 @@
 #EXTM3U
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV1 综合
-https://tv.iill.top/cqyx/cctv1HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV2 财经
-https://tv.iill.top/cqyx/cctv2HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV3 综艺
-https://tv.iill.top/cqyx/cctv3HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV4 中文国际
-https://tv.iill.top/cqyx/cctv4HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV5 体育
-https://tv.iill.top/cqyx/cctv5HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV6 电影
-https://tv.iill.top/cqyx/cctv6HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV7 国防军事
-https://tv.iill.top/cqyx/cctv7HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV8 电视剧
-https://tv.iill.top/cqyx/cctv8HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV9 纪录
-https://tv.iill.top/cqyx/cctv9HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV10 科教
-https://tv.iill.top/cqyx/cctv10HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV11 戏曲
-https://tv.iill.top/cqyx/cctv11HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV12 社会与法
-https://tv.iill.top/cqyx/cctv12HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV13 新闻
-https://tv.iill.top/cqyx/CCTVNewsHD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV14 少儿
-https://tv.iill.top/cqyx/cctvseHD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV15 音乐
-https://tv.iill.top/cqyx/cctv15HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV16 奥林匹克
-https://tv.iill.top/cqyx/cctv16HD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV16 奥林匹克4K
-https://tv.iill.top/cqyx/CCTV16_4K
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV4K 超高清
-https://tv.iill.top/cqyx/CCTV4K
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV17 农业农村
-https://tv.iill.top/cqyx/cctv17HD
-#EXTINF:-1 group-title="•央视「CQYX」",CGTN
-https://tv.iill.top/cqyx/cgtnSD
-#EXTINF:-1 group-title="•央视「CQYX」",CETV1
-https://tv.iill.top/cqyx/cetv-1SD
-#EXTINF:-1 group-title="•央视「CQYX」",CETV4
-https://tv.iill.top/cqyx/cetv-4SD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV 文化精品
-https://tv.iill.top/cqyx/yswhHD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV 怀旧剧场
-https://tv.iill.top/cqyx/hjjcHD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV 第一剧场
-https://tv.iill.top/cqyx/diyijuchangHD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV 风云剧场
-https://tv.iill.top/cqyx/fyjcHD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV 风云音乐
-https://tv.iill.top/cqyx/fyyyHD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV 央视台球
-https://tv.iill.top/cqyx/ystqHD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV 风云足球
-https://tv.iill.top/cqyx/fyzqHD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV 高尔夫网球
-https://tv.iill.top/cqyx/golfHD
-#EXTINF:-1 group-title="•央视「CQYX」",CCTV 兵器科技
-https://tv.iill.top/cqyx/bqkjHD
-#EXTINF:-1 group-title="•卫视「CQYX」",江苏卫视
-https://tv.iill.top/cqyx/jiangsuHD
-#EXTINF:-1 group-title="•卫视「CQYX」",浙江卫视
-https://tv.iill.top/cqyx/zhejiangHD
-#EXTINF:-1 group-title="•卫视「CQYX」",东方卫视
-https://tv.iill.top/cqyx/shanghaiHD
-#EXTINF:-1 group-title="•卫视「CQYX」",深圳卫视
-https://tv.iill.top/cqyx/shenzhenHD
-#EXTINF:-1 group-title="•卫视「CQYX」",北京卫视
-https://tv.iill.top/cqyx/beijingHD
-#EXTINF:-1 group-title="•卫视「CQYX」",辽宁卫视
-https://tv.iill.top/cqyx/liaoningHD
-#EXTINF:-1 group-title="•卫视「CQYX」",天津卫视
-https://tv.iill.top/cqyx/tianjinHD
-#EXTINF:-1 group-title="•卫视「CQYX」",贵州卫视
-https://tv.iill.top/cqyx/guizhouHD
-#EXTINF:-1 group-title="•卫视「CQYX」",四川卫视
-https://tv.iill.top/cqyx/sichuanHD
-#EXTINF:-1 group-title="•卫视「CQYX」",云南卫视
-https://tv.iill.top/cqyx/yunnanSD
-#EXTINF:-1 group-title="•卫视「CQYX」",东南卫视
-https://tv.iill.top/cqyx/dongnanHD
-#EXTINF:-1 group-title="•卫视「CQYX」",黑龙江卫视
-https://tv.iill.top/cqyx/heilongjiangHD
-#EXTINF:-1 group-title="•卫视「CQYX」",安徽卫视
-https://tv.iill.top/cqyx/anhuiSD
-#EXTINF:-1 group-title="•卫视「CQYX」",河北卫视
-https://tv.iill.top/cqyx/hebeiSD
-#EXTINF:-1 group-title="•卫视「CQYX」",江西卫视
-https://tv.iill.top/cqyx/jiangxiHD
-#EXTINF:-1 group-title="•卫视「CQYX」",湖北卫视
-https://tv.iill.top/cqyx/hubeiSD
-#EXTINF:-1 group-title="•卫视「CQYX」",海南卫视
-https://tv.iill.top/cqyx/hainanSD
-#EXTINF:-1 group-title="•卫视「CQYX」",吉林卫视
-https://tv.iill.top/cqyx/jilinHD
-#EXTINF:-1 group-title="•卫视「CQYX」",广西卫视
-https://tv.iill.top/cqyx/guangxiHD
-#EXTINF:-1 group-title="•卫视「CQYX」",内蒙古卫视
-https://tv.iill.top/cqyx/neimengkuSD
-#EXTINF:-1 group-title="•卫视「CQYX」",湖南卫视
-https://tv.iill.top/cqyx/hunanHD
-#EXTINF:-1 group-title="•卫视「CQYX」",广东卫视
-https://tv.iill.top/cqyx/guangdongHD
-#EXTINF:-1 group-title="•卫视「CQYX」",兵团卫视
-https://tv.iill.top/cqyx/bingtuanSD
-#EXTINF:-1 group-title="•卫视「CQYX」",宁夏卫视
-https://tv.iill.top/cqyx/ningxia
-#EXTINF:-1 group-title="•卫视「CQYX」",青海卫视
-https://tv.iill.top/cqyx/qinghaiSD
-#EXTINF:-1 group-title="•卫视「CQYX」",山东教育
-https://tv.iill.top/cqyx/sdjiaoyuSD
-#EXTINF:-1 group-title="•卫视「CQYX」",新疆卫视
-https://tv.iill.top/cqyx/xinjiangSD
-#EXTINF:-1 group-title="•卫视「CQYX」",西藏卫视
-https://tv.iill.top/cqyx/xizangSD
-
-#EXTINF:-1 group-title="•数字「CQYX」",CHC动作电影
-https://tv.iill.top/cqyx/chcdzdyHD
-#EXTINF:-1 group-title="•数字「CQYX」",CHC家庭影院
-https://tv.iill.top/cqyx/chcjtyyHD
-#EXTINF:-1 group-title="•数字「CQYX」",CHC高清电影
-https://tv.iill.top/cqyx/chcgqdyHD
-#EXTINF:-1 group-title="•数字「CQYX」",欢笑剧场4K
-https://tv.iill.top/cqyx/hxjc_4K
-#EXTINF:-1 group-title="•数字「CQYX」",中国天气
-https://tv.iill.top/cqyx/tianqiSD
-#EXTINF:-1 group-title="•数字「CQYX」",卡酷少儿
-https://tv.iill.top/cqyx/bjkakuSD
-#EXTINF:-1 group-title="•数字「CQYX」",纪实科教
-https://tv.iill.top/cqyx/bjayjsSD
-#EXTINF:-1 group-title="•数字「CQYX」",金鹰卡通
-https://tv.iill.top/cqyx/jinyingSD
-#EXTINF:-1 group-title="•数字「CQYX」",生活时尚
-https://tv.iill.top/cqyx/shenghuo
-#EXTINF:-1 group-title="•数字「CQYX」",都市剧场
-https://tv.iill.top/cqyx/dsjcHD
-#EXTINF:-1 group-title="•数字「CQYX」",动漫秀场
-https://tv.iill.top/cqyx/dmxcHD
-#EXTINF:-1 group-title="•数字「CQYX」",魅力足球
-https://tv.iill.top/cqyx/mlzqHD
-#EXTINF:-1 group-title="•数字「CQYX」",游戏风云
-https://tv.iill.top/cqyx/yxfyHD
-#EXTINF:-1 group-title="•数字「CQYX」",求索纪录
-https://tv.iill.top/cqyx/qsjlHD
-#EXTINF:-1 group-title="•数字「CQYX」",百姓健康
-https://tv.iill.top/cqyx/jiankangSD
-#EXTINF:-1 group-title="•数字「CQYX」",快乐垂钓
-https://tv.iill.top/cqyx/klcdHD
-#EXTINF:-1 group-title="•数字「CQYX」",早期教育
-https://tv.iill.top/cqyx/zaojiaoHD
-#EXTINF:-1 group-title="•数字「CQYX」",东方财经
-https://tv.iill.top/cqyx/dfcj
-#EXTINF:-1 group-title="•数字「CQYX」",证券服务
-https://tv.iill.top/cqyx/jiazheng
-#EXTINF:-1 group-title="•数字「CQYX」",书画
-https://tv.iill.top/cqyx/shuhua
-#EXTINF:-1 group-title="•数字「CQYX」",新动漫
-https://tv.iill.top/cqyx/dongman
-#EXTINF:-1 group-title="•数字「CQYX」",国学频道
-https://tv.iill.top/cqyx/guoxue
-#EXTINF:-1 group-title="•数字「CQYX」",优优宝贝
-https://tv.iill.top/cqyx/youxi
-#EXTINF:-1 group-title="•数字「CQYX」",中华特产
-https://tv.iill.top/cqyx/techan
-#EXTINF:-1 group-title="•数字「CQYX」",环球奇观
-https://tv.iill.top/cqyx/car
-#EXTINF:-1 group-title="•数字「CQYX」",生态环境
-https://tv.iill.top/cqyx/shengtai
-#EXTINF:-1 group-title="•数字「CQYX」",四海钓鱼
-https://tv.iill.top/cqyx/diaoyu
-#EXTINF:-1 group-title="•数字「CQYX」",发现之旅
-https://tv.iill.top/cqyx/faxian
-#EXTINF:-1 group-title="•数字「CQYX」",车迷
-https://tv.iill.top/cqyx/doxtv
-#EXTINF:-1 group-title="•数字「CQYX」",法治天地
-https://tv.iill.top/cqyx/fazhi
-#EXTINF:-1 group-title="•数字「CQYX」",金色学堂
-https://tv.iill.top/cqyx/jinse
-#EXTINF:-1 group-title="•数字「CQYX」",收藏天下
-https://tv.iill.top/cqyx/soucang
-#EXTINF:-1 group-title="•数字「CQYX」",财富天下
-https://tv.iill.top/cqyx/caifu
-#EXTINF:-1 group-title="•数字「CQYX」",女性时尚
-https://tv.iill.top/cqyx/nvxing
-#EXTINF:-1 group-title="•数字「CQYX」",中学生
-https://tv.iill.top/cqyx/qicai
-#EXTINF:-1 group-title="•数字「CQYX」",天元围棋
-https://tv.iill.top/cqyx/weiqi
-#EXTINF:-1 group-title="•数字「CQYX」",先锋乒羽
-https://tv.iill.top/cqyx/xianfeng
-#EXTINF:-1 group-title="•数字「CQYX」",环球旅游
-https://tv.iill.top/cqyx/huanqiulvyou
-#EXTINF:-1 group-title="•数字「CQYX」",老故事
-https://tv.iill.top/cqyx/gushi
-#EXTINF:-1 group-title="•数字「CQYX」",摄影频道
-https://tv.iill.top/cqyx/sheying
+#EXTINF:-1 CCTV-1(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+#EXTINF:-1 CCTV-2(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 CCTV-2(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+#EXTINF:-1 CCTV-3(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
+#EXTINF:-1 CCTV-3(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+#EXTINF:-1 CCTV-4(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 CCTV-4(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+#EXTINF:-1 CCTV-5(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 CCTV-5+(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1 CCTV-5+(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+#EXTINF:-1 CCTV-6(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1 CCTV-7(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 CCTV-8(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1 CCTV-8(1088P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1 CCTV-9(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 CCTV-10(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 CCTV-11(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+#EXTINF:-1 CCTV-12(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+#EXTINF:-1 CCTV-13(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 CCTV-14(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 CCTV-15(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1 CCTV-16(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1 CCTV-17(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+#EXTINF:-1 �㶫����(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
+#EXTINF:-1 �㶫����(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
+#EXTINF:-1 ����������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
+#EXTINF:-1 ɽ������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+#EXTINF:-1 �������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+#EXTINF:-1 �������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+#EXTINF:-1 �㽭����(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
+#EXTINF:-1 �㽭����(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+#EXTINF:-1 �㽭����(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+#EXTINF:-1 �㽭����(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
+#EXTINF:-1 ��������(1080P)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
