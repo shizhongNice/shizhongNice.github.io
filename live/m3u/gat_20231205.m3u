@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="IPV6·央视",CCTV [随机4K] 「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
 #EXTINF:-1 group-title="IPV6·央视",CCTV [随机4K] 「IPV6」

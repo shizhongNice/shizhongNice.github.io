@@ -3,12 +3,8 @@
 
 吾爱电视,https://vdse.bdstatic.com//e0fea407bd264dd1e7833cf8901178cb.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-11-03T03%3A09%3A14Z%2F-1%2Fhost%2Fa0983dd9c76d1b524da42c0c53e2a1e8533d35816e2454e0c363b8e7bcd65907
 回复"密码",https://vdse.bdstatic.com//e0fea407bd264dd1e7833cf8901178cb.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-11-03T03%3A09%3A14Z%2F-1%2Fhost%2Fa0983dd9c76d1b524da42c0c53e2a1e8533d35816e2454e0c363b8e7bcd65907
-
 杭州第19届亚洲运动会闭幕式,https://vdse.bdstatic.com//39a35775da131dfada301e3bb621029a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-11-04T02%3A04%3A16Z%2F-1%2Fhost%2Fd4d294dc45c100338cddf7821581dd1f92c7a5620ca9ade397e8ebeb9d50a360
 杭州第19届亚洲运动会开幕式,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_3440682307_8629014299/merged_1695478206962_41916_60_7042.m3u8
-
-
-
 🍥《古相思曲》,#genre#
 第01集（14）,https://vip.lz-cdn12.com/20230703/8631_9eaa9f27/index.m3u8
 第02集（13）,https://vip.lz-cdn12.com/20230703/8630_1ef636aa/index.m3u8
@@ -24,12 +20,10 @@
 第12集（3）,https://hd.lz-cdn18.com/20230706/3883_a3fbb45c/index.m3u8
 第13集（2）,https://hd.lz-cdn18.com/20230712/3983_35395870/index.m3u8
 第14集（1）,https://hd.lz-cdn18.com/20230712/3982_60e0671e/index.m3u8
-
 🍥《逃出大英博物馆》,#genre#
 第一集,https://vdse.bdstatic.com//473f25843bee7bf8c92a1827d48df15a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-11-04T13%3A20%3A07Z%2F-1%2Fhost%2F2563c77a84b9d6fc411f90bf5e0dd848a9c5985a1b62f1abe30ac9809a5ac114
 第二集,https://vdse.bdstatic.com//14e3040ab8c5863f7beae221a6de8038.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-11-04T06%3A17%3A46Z%2F-1%2Fhost%2F701e251d418e586f0a609bb47e77b32ec03f133b2553d6dc39bcd9e8e38a199d
 第三集,https://vdse.bdstatic.com//c042c1a2849c4573ae292aa7fd4fa2e2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-11-04T12%3A43%3A00Z%2F-1%2Fhost%2F6d8a16062a058eca8ae19623d58987f4d504ce312cd8a71ef7c76aadb631ad4d
-
 🍥《门主》短剧_1314,#genre#
 1,https://alimov2.a.kwimgs.com/upic/2022/08/11/11/BMjAyMjA4MTExMTI1MzRfODE5MDU2ODA2XzgxNTMzNjE2Mzc0XzBfMw==_b_Bf0c2f43f658a896209f63055c8fc613f.mp4?tag=1-1700050763-unknown-0-f6cuomrlwn-0bbffecb61c44c1b&clientCacheKey=3xu72vi3eeqkyg9_b.mp4&di=df4912f8&bp=10000&tt=b&ss=vp
 2,https://alimov2.a.kwimgs.com/upic/2022/08/11/16/BMjAyMjA4MTExNjI4NTZfODE5MDU2ODA2XzgxNTU1NzgyMzMxXzBfMw==_b_Bc80be2e8edff26c3bd0e760da49a3d1e.mp4?tag=1-1700051043-unknown-0-wif4olwa3p-f3e011dd50f07d4a&clientCacheKey=3xm2ft6qnme3s4w_b.mp4&di=df4912f8&bp=10000&tt=b&ss=vp
@@ -67,8 +61,6 @@
 34,https://v4-vod.kwaicdn.com/bs3/video-hls/5217701733202001401_hlsb.m3u8?ftt=R&pkey=AAVE_lW3nAWHkQqImjkDwMJNuatztOVl4S9spHjvGDNDGcjm1pK7Lwp8PxhGmHu1VgiwIsrBbyHdu9EHrzUEWcpc5HrZo_ZltutKNx37JSDEvD2a75WZw9giAVsmQoZNsms&ss=vp
 35,https://txmov2.a.kwimgs.com/upic/2022/10/13/16/BMjAyMjEwMTMxNjM2NTJfODE5MDU2ODA2Xzg2MzUwNjMzMjg0XzBfMw==_b_B6f7172ec0647ee5c128985c002293bb5.mp4?tag=1-1700053385-unknown-0-v9utzpu5cx-f9382a9f9b22b84e&clientCacheKey=3xvnzd6vsfzxhku_b.mp4&di=df4912f8&bp=10000&tt=b&ss=vp
 36,https://v2-vod.kwaicdn.com/bs3/video-hls/5251197252966574228_hlsb.m3u8?ftt=R&pkey=AAVOgWpVFbCGA38YkIHemrC3cc4pJgUHkRyjsYq7cPsQv-OrS493A-88zqiKZL7QFuUvRx6pEt1tf7D7mg5MCy_j2RWQVgK1E4znB2Tu8jm6smrHB-IDiV1O5OoL4PZiI1c&ss=vp
-
-
 🇨🇳｜历年春晚,#genre#	
 春晚1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4	
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4	
@@ -120,7 +112,6 @@ CCTV14,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3
 CCTV15,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3u8
 CCTV16,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 CCTV17,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
-
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
@@ -134,7 +125,6 @@ CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212262
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-
 🛰️｜️移动专区,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -201,7 +191,6 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 延边卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
-康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
 电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
@@ -262,8 +251,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 奕坦春秋,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-
-
 🚛狂       飙 ,#genre#
 狂飙01,https://p3-sign.douyinpic.com/obj/tos-cn-v-f17943/1004104b1cb44ebb86d41d36cded7134?filename=1.mp4&x-expires=1990965600&x-signature=rkNwnTHL%2FWG5t5y0NHV4u0MbsJI%3D
 狂飙02,https://p3-sign.douyinpic.com/obj/tos-cn-v-f17943/02c923a1b4534059a381b95639bfd677?filename=1.mp4&x-expires=1990965600&x-signature=EhDaC8GRTOmYxp5USNaur2Ma%2FXA%3D
@@ -501,7 +488,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 尘封十三载 第23集,https://hd.lz-cdn18.com/20230416/1926_6c185945/index.m3u8
 尘封十三载 第24集,https://hd.lz-cdn18.com/20230416/1925_64688cb0/index.m3u8
 🚛赤焰锦衣卫,#genre#
-
 ﻿赤焰锦衣卫 第01集,https://vip.lz-cdn9.com/20221231/16778_e7666586/index.m3u8
 赤焰锦衣卫 第02集,https://vip.lz-cdn9.com/20221231/16779_38ed83a0/index.m3u8
 赤焰锦衣卫 第03集,https://vip.lz-cdn9.com/20221231/16780_7c9b6742/index.m3u8
@@ -521,8 +507,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 赤焰锦衣卫 第18集,https://vip.lz-cdn14.com/20230412/21683_105bf43e/index.m3u8
 赤焰锦衣卫 第19集,https://vip.lz-cdn14.com/20230419/22006_68ec6a1e/index.m3u8
 赤焰锦衣卫 第20集,https://vip.lz-cdn14.com/20230426/22408_e50e0fc7/index.m3u8
-
-
 📖空中课堂,#genre#
 空中课堂_一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 空中课堂_二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
@@ -562,10 +546,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 倒霉熊,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
 亲子启蒙,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
-优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
-嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
-北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 央視少兒,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
 靖天卡通,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
 靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
@@ -1612,7 +1592,6 @@ TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
 中天亚洲,http://162.19.247.76:22222/live/ztyz/index.m3u8
-TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 千禧经典台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM
@@ -1644,8 +1623,6 @@ VTC13[3840x2160],http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 三立台湾,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都会,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
-凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 中天娱乐台,http://162.19.247.76:22222/live/ztyl/index.m3u8
 ABCNews,http://198.16.100.90:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 八大戏剧,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
@@ -1673,7 +1650,6 @@ RTHK32,http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744
 FilmRise Forensic Files,http://81.94.196.204/tsstreamer/France24_HD.ts
 France 24 English,http://81.94.196.204/tsstreamer/France24_HD.ts
 France 24 Arabic,http://81.94.196.204/tsstreamer/France24_HD.ts
-France 24 French,http://81.94.196.204/tsstreamer/France24_HD.ts
 France 24 French,http://81.94.196.204/tsstreamer/France24_HD.ts
 BEIN SPORTS FRENCH 3 HD,http://81.94.196.204/tsstreamer/France24_HD.ts
 FilmRise Free Movies,http://81.94.196.204/tsstreamer/France24_HD.ts
@@ -1732,7 +1708,6 @@ Fox News Now,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 Fox Soul,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 Fox Soul,https://foxsoul-vizio.amagi.tv/playlist.m3u8
 华视, http://162.19.247.76:22222/live/huashi/index.m3u8
-中天娱乐台,http://162.19.247.76:22222/live/ztyl/index.m3u8
 东森戏剧台,http://162.19.247.76:22222/live/dsxj/index.m3u8
 东森电影台,http://162.19.247.76:22222/live/dsdyt/index.m3u8
 东森洋片台,http://162.19.247.76:22222/live/dsypt/index.m3u8
@@ -1751,12 +1726,10 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
-TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 CNA新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
@@ -1777,7 +1750,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -1830,7 +1802,6 @@ Zoo Moo,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoo
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/live.m3u8
-八大戏剧,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
 博斯高球1,http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
 博斯高球1,http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯运动2,http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
@@ -1840,7 +1811,6 @@ Zoo Moo,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoo
 东森电影,http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8
 翡翠台,https://epg.pw/stream/1fbab856b95f1ee5eed372ecef4a3c30b658c4e39a73734f0292ce7635ac0248.ctv
 凤凰香港,https://cntv.sbs/fs?id=fhhk
-凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 凤凰信息,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
@@ -1860,9 +1830,7 @@ Zoo Moo,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoo
 龙华戏剧,http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-三立都会,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 天映经典,http://162.19.247.76:22222/live/tyjd/index.m3u8
-纬来体育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 香港8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
@@ -1887,7 +1855,6 @@ TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
 八大戏剧台,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
 八大戏剧台,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
 TVBS亚洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 MusicTV,http://198.16.100.90:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869&ct=19225&tsum=25aeb843227531bfab3d9fde062323b2
 国家地理,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 国家地理野生,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
@@ -1897,7 +1864,6 @@ MusicTV,http://198.16.100.90:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869
 澳門蓮花,https://p.ggiptv.com/v/macaulotustv.php
 澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 翡翠,https://epg.pw/stream/1fbab856b95f1ee5eed372ecef4a3c30b658c4e39a73734f0292ce7635ac0248.ctv
-
 🎀广东,#genre#
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 生活HD,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
@@ -1914,7 +1880,6 @@ MusicTV,http://198.16.100.90:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
-大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 广东公共,http://9.zhxinda.xyz/gdtv.php?pk=1185
 广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
 广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
@@ -3092,8 +3057,6 @@ MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7n
 👯‍♀️抖音热舞,#genre#
 抖音姐姐热热,http://epg.112114.xyz/douyu/8901218
 抖音姐姐热舞,http://epg.112114.xyz/douyu/8759139
-
-
 🎸韩国音乐_1314,#genre#
 洪真英-爱情的电池,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzvSa4gUoutzqwwQ.mp4
 韩国美女诱惑热舞Sori-Dual Life,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
@@ -3674,8 +3637,6 @@ DJ打碟Sam Feldt[1280*676],https://vd2.bdstatic.com/mda-km1eae67ya1bgswg/v1-cae
 DJ打碟 Amy Wiles,https://vd2.bdstatic.com/mda-kkdf3jba9fsp4hr2/v1-cae/sc/mda-kkdf3jba9fsp4hr2.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660565377-0-0-66f9b67d2b100d0c59b236326ce6d4bf&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2377127972&vid=11217911587580897463&abtest=103742_2-103890_2-103579_2&klogid=2377127972
 DJ打碟Toquinho,https://vd4.bdstatic.com/mda-ncn8353qdj4250ga/sc/cae_h264_delogo/1648019138180108259/mda-ncn8353qdj4250ga.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660565393-0-0-3aba7cd19b150ed7cf2598254312daf0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2392920723&vid=12398024234293028218&abtest=103742_2-103890_2-103579_2&klogid=2392920723
 DJ打碟Oz Green,https://vd4.bdstatic.com/mda-nbc8e7p8yim7q4kw/sc/cae_h264_delogo/1644734834302724788/mda-nbc8e7p8yim7q4kw.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660565409-0-0-934b58e48f6e9b4cdf45b5c8c1f01ad3&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2409235034&vid=16458997361411576188&abtest=103742_2-103890_2-103579_2&klogid=2409235034
-
-
 🎸DJ音乐,#genre#
 模特DJ,http://gcw.bdcdn.shoujiduoduo.com/201805/0247-477.mp4
 21年DJ爆红网络洗脑神曲,https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
@@ -3894,8 +3855,6 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 伤心的眼泪,https://vd3.bdstatic.com/mda-ncn2c816zrf6u0im/sc/cae_h264_delogo/1648002300550722369/mda-ncn2c816zrf6u0im.mp4
 《英雄泪》,https://vd3.bdstatic.com/mda-ncnp6tm56ngrxbis/360p/h264_delogo/1648055585617071282/mda-ncnp6tm56ngrxbis.mp4
 2022几首DJ串烧,https://vd3.bdstatic.com/mda-nck3tqzgjvj076vc/sc/cae_h264_delogo/1647833645083560959/mda-nck3tqzgjvj076vc.mp4
-
-
 🎻欧美MV,#genre#
 mey green、bob garcia - is this love-[86M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0LXV4gUoweaZ4AM.mp4
 kieda budini - flirt-[109M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgprXV4gUo8KbK2gc.mp4
