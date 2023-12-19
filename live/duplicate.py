@@ -43,13 +43,6 @@ def file_replace(filename, oldstr, newstr):
         file.write(new_content)
     os.rename(filename + '.1', filename)
 
-def m3u_duplicate(filename):  
-    file_replace(filename, "\r", "\n")
-    file_replace(filename, "\n\n", "\n")
-    file_replace(filename, "\nhttp", ",http")
-    file_duplicate(filename)
-    file_replace(filename, ",http", "\nhttp")
-
 # 使用func函数依次对某个目录下的所有文件进行操作
 def dir_doing(dir_path, func):  
     for root, dirs, files in os.walk(dir_path):  
@@ -60,7 +53,6 @@ def dir_doing(dir_path, func):
             for subdir in dirs:  
                 dir_doing(os.path.join(root, subdir), func) 
 
-
 def file_doing(filename, func):  
     isDir = os.path.isdir(filename)
     if isDir:
@@ -70,7 +62,70 @@ def file_doing(filename, func):
 
 
 
+###################################################
+def m3u_duplicate(filename):  
+    file_replace(filename, "\r", "\n")
+    file_replace(filename, "\n\n", "\n")
+    file_replace(filename, "\nhttp", ",http")
+    file_duplicate(filename)
+    file_replace(filename, ",http", "\nhttp")
 
+def string_list_sort(str_list):  
+    chinese_list = []  
+    english_list = []  
+    
+    for item in str_list:
+        if item.isalpha():  
+            english_list.append(item)  
+        else:  
+            chinese_list.append(item)
+
+    english_list.sort()
+    chinese_list.sort()
+    return english_list + chinese_list
+
+
+def txt_group_sort(filename):  
+
+    print("start txt_group_sort: " + filename)
+
+    file_replace(filename, "\r", "\n")
+    file_replace(filename, "\n\n", "\n")
+
+    # 打开输入文件  
+    with open(filename, 'r') as input_file:
+
+        with open(filename + '.1', 'w') as output_file:  
+            lines_list = []  
+            # 遍历每一行  
+            for line in input_file:  
+                # 如果是group, 
+                if "#genre#" in line: # groupname
+                    #先对原有的列表排序写到另一个文件,再清空
+                    if lines_list:
+                        lines_list = string_list_sort(lines_list)
+                        output_file.writelines(lines_list)
+                        lines_list = []
+
+                    #然后直接将tittle写到另一个文件
+                    output_file.write("\n" + line)
+                    continue
+
+                # 如果是普通行, 则加入到列表中                
+                if line != '\n':
+                    lines_list.append(line)
+
+            #最后一个group
+            if lines_list:
+                lines_list = string_list_sort(lines_list)
+                output_file.writelines(lines_list)
+
+            output_file.write("\n")
+
+    os.rename(filename + '.1', filename)
+
+
+###################################################
 def main():
     args = sys.argv[1:]
     if not args:
@@ -81,11 +136,13 @@ def main():
     file_doing(filename, file_duplicate)
     print("去重完成")
 
-
+###################################################
 if __name__ == '__main__':
     # main()
 
-    file_doing("./txt", file_duplicate)
     file_doing("./m3u", m3u_duplicate)
+
+    file_doing("./txt", file_duplicate)
+    file_doing("./txt", txt_group_sort)
 
     
