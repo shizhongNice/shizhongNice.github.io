@@ -3,6 +3,17 @@
 import sys
 import os  
 import hashlib  
+import opencc  
+
+# 将 繁体中文 转换为 简体中文
+def convert_traditional_to_simplified(filename):
+    with open(filename, 'r', encoding='utf-8') as f:  
+        content = f.read()  
+    converter = opencc.OpenCC('t2s.json')  
+    simplified_content = converter.convert(content)  
+    with open(filename + '.1', 'w', encoding='utf-8') as f:  
+        f.write(simplified_content)  
+    os.rename(filename + '.1', filename)
 
 # 将一个文件中所有重复的行删除,顺序打乱
 def file_duplicate(filename):
@@ -59,8 +70,6 @@ def file_doing(filename, func):
         dir_doing(filename, func)
     else:
         func(filename)
-
-
 
 ###################################################
 def m3u_duplicate(filename):  
@@ -140,8 +149,10 @@ def main():
 if __name__ == '__main__':
     # main()
 
+    file_doing("./m3u", convert_traditional_to_simplified)
     file_doing("./m3u", m3u_duplicate)
 
+    file_doing("./txt", convert_traditional_to_simplified)
     file_doing("./txt", file_duplicate)
     file_doing("./txt", txt_group_sort)
 
