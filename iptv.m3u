@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
 
 #EXTINF:-1 group-title="直播中国", 河南郑东新区千玺广场
 https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
