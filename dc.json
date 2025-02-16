@@ -3,7 +3,11 @@
 
         {"sourceName": "Nice多仓库", "sourceUrl": "https://shizhongnice.github.io/ck.json"},
 
-        {"sourceName": "🎸欧歌多仓库", "sourceUrl": "https://欧歌.e.nxog.top/api.php?id=1"},
+        {"sourceName": "🎸欧歌多仓", "sourceUrl": "https://xn--dkw0c.e.nxog.top/nxog/ou1.php?b=欧歌"},
+        {"sourceName": "🎸欧歌多仓(备用1)", "sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=欧歌"},
+        {"sourceName": "🎸欧歌多仓(备用2)", "sourceUrl": "https://3.nxog.eu.org/nxog/ou1.php?b=欧歌"},
+        
+
         {"sourceName": "🍵金鹰多仓库", "sourceUrl": "https://shizhongnice.github.io/ck_jinying.json"},
 
         // {"sourceName": "xxx", "sourceUrl": "xxxxxxxx"},
@@ -60,7 +64,7 @@
             "sourceName": "🍷蚂蚁影视四仓库",
             "sourceUrl": "https://pan.miaogongzi.net/f/95Hw/%E8%9A%82%E8%9A%81%E7%AA%9D4.txt"
         },
-        
+
         {
             "sourceName": "🔑本地接口",
             "sourceUrl": "clan://localhost/box/box.txt"
