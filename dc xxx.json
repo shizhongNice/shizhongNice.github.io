@@ -1,0 +1,34 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "⛵️壹梦影视多仓库",
+            "sourceUrl": "http://530.my3v.work/3.json"
+        },
+        {
+            "sourceName": "🔮鼓楼影视多仓库",
+            "sourceUrl": "https://raw.gitmirror.com/ZTHA000/tvbox/main/flck.json"
+        },
+        {
+            "sourceName": "X-喵公子仓",
+            "sourceUrl": "https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua2.json"
+        },
+        {
+            "sourceName": "X-大烟管18",
+            "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B61.txt?sign=P1Ko2EJyKAdWqcdNZhfmF0gsWTRvL971YmFYtzW25ek%3D%3A0"
+        },
+        {
+            "sourceName": "X-大烟管18+",
+            "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"
+        },
+
+        // {"sourceName": "xxx", "sourceUrl": "xxxxxxxx"},
+        // {"sourceName": "xxx", "sourceUrl": "xxxxxxxx"},
+        // {"sourceName": "xxx", "sourceUrl": "xxxxxxxx"},
+        // {"sourceName": "xxx", "sourceUrl": "xxxxxxxx"},
+        // {"sourceName": "xxx", "sourceUrl": "xxxxxxxx"},
+        {
+            "sourceName": "NiceXXX",
+            "sourceUrl": "https://shizhongnice.github.io/ck_xxx.json"
+        }
+    ]
+}
