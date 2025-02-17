@@ -81,6 +81,18 @@
 
   - 接口: https://shizhongnice.github.io/tvbox.json  
 
+    使用以下方式代理加速
+    - [x] https://p.ntnas.top/https://raw.githubusercontent.com/shizhongNice/shizhongnice.github.io/main/tvbox.json
+    - [x] https://github.moeyy.xyz/https://raw.githubusercontent.com/shizhongNice/shizhongnice.github.io/main/tvbox.json
+    - [x] https://gh-proxy.com/https://raw.githubusercontent.com/shizhongNice/shizhongnice.github.io/main/tvbox.json
+    - [ ] https://ghproxy.com/https://raw.githubusercontent.com/shizhongNice/shizhongnice.github.io/main/tvbox.json
+    - [ ] https://ghproxy.net/https://raw.githubusercontent.com/shizhongNice/shizhongnice.github.io/main/tvbox.json
+    
+    - [x] https://raw.kkgithub.com/shizhongNice/shizhongnice.github.io/main/tvbox.json
+    - [x] https://fastly.jsdelivr.net/gh/shizhongNice/shizhongnice.github.io@main/tvbox.json
+    - [x] https://gcore.jsdelivr.net/gh/shizhongNice/shizhongnice.github.io@main/tvbox.json
+    - [ ] https://jsdelivr.b-cdn.net/gh/shizhongNice/shizhongnice.github.io@main/tvbox.json
+    - [ ] https://raw.fgit.cf/shizhongNice/shizhongnice.github.io/main/tvbox.json
 
 + 大佬线路
 

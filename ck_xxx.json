@@ -7,14 +7,13 @@
 {"name": "X-FenWe线路", "url":"https://agit.ai/fenwe/TVBox/raw/branch/master/adult.json"},
 {"name": "X-Sex线路", "url":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/18sex.txt"},
 {"name": "X-无痕线路", "url":"https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json"},
-
 {"name": "X-MHQTV线路", "url":"https://agit.ai/ccy/MHQTV/raw/branch/master/sm.json"},
 {"name": "X-私人影院", "url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt"},
-{"name": "X-分享者18+", "url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json"},
+{"name": "X-QiaoJ", "url":"https://agit.ai/hu/hcr/raw/branch/master/1012.txt"},
+
 {"name": "X-不正经线", "url":"https://codeberg.org/caic/a/raw/branch/main/不正经.json"},
 {"name": "X-JiuYing线路", "url":"http://152.136.125.181:81/MM/dianbos/MultiLine/JiuYing/BBB.json"},
 {"name": "X-聚优解说路线", "url":"http://shuyuan.miaogongzi.net/shuyuan/1682460537.json"},
-{"name": "X-QiaoJ", "url":"https://agit.ai/hu/hcr/raw/branch/master/1012.txt"},
 {"name": "duomv", "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"},
 
 {"name": "X-Huhujun线路", "url":"https://huhujunxx.neocities.org/AV.json"},
@@ -24,8 +23,9 @@
 {"name": "高天18🈲", "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/9918.json"},
 {"name": "bizhangjie🈲", "url": "https://cdn.jsdelivr.net/gh/bizhangjie/CatVodSpider/json/18sexN.json"},
 
-{"url": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/18live.json", "name": "18live"},
-{"url": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/19.json", "name": "19"},
+{"name": "X-分享者18+", "url":"https://p.ntnas.top/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json"},
+{"name": "18live", "url": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/18live.json"},
+{"name": "19", "url": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/19.json"},
 
 {"name":"X-nice-h", "url":"https://shizhongnice.github.io/json/xxx/h.json"},
 {"name":"X-nice-adult", "url":"https://shizhongnice.github.io/json/xxx/adult.json"}
