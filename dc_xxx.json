@@ -21,6 +21,19 @@
             "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"
         },
 
+        {"sourceName":"总线","sourceUrl":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/X.json"},
+        {"sourceName":"仓库","sourceUrl":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/XJ.json"},
+        {"sourceName":"优质","sourceUrl":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/YZ.json"},
+        {"sourceName":"资源","sourceUrl":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/ZY.json"},
+        {"sourceName":"18+","sourceUrl":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18CR.json"},
+
+        {"sourceName":"gaotianliuyun仓库","sourceUrl":"https://p.ntnas.top/https://raw.githubusercontent.com/hd9211/Tvbox1/main/gaotianliuyun.json"},
+        {"sourceName":"优质2","sourceUrl":"https://p.ntnas.top/https://raw.githubusercontent.com/hd9211/Tvbox1/main/优质.json"},
+        {"sourceName":"CR","sourceUrl":"https://p.ntnas.top/https://raw.githubusercontent.com/hd9211/Tvbox1/main/cr.json"},
+
+
+        https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/shizhongnice.github.io/main/ck_xxx.json
+
         {
             "sourceName": "NiceXXX",
             "sourceUrl": "https://shizhongnice.github.io/ck_xxx.json"

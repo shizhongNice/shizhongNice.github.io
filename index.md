@@ -30,7 +30,7 @@
 
 - [AI工具箱](https://www.ailookme.com/)
 
-## IPTV
+## TVBOX免费看电视
 
 ### 开源项目
 
@@ -40,6 +40,7 @@
 - [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)
 - [wtv工具箱](https://github.com/biancangming/wtv)
 - [tvg-logo](https://github.com/fanmingming/live)
+- [QingNing](https://github.com/Zhou-Li-Bin/Tvbox-QingNing)
 
 ### 工具软件集
 
@@ -47,15 +48,34 @@
 - [电视盒子端软件](https://www.lanzouv.com/b03j7buub) 密码：18
 - [TV版电视盒子](https://ufoclz.lanzouy.com/b00zboiwb) 密码：2kzz
 
-### m3u
+### 提供接口的大神们
 
-- [gat_20231205](https://shizhongnice.github.io/m3u/gat_20231205.m3u)
-- [iptv_ipv6](https://shizhongnice.github.io/m3u/iptv_ipv6.m3u)
-- [iptv_3_IPV6](https://shizhongnice.github.io/m3u/iptv_3_IPV6.m3u)
-- [iptv_3_CQYX](https://shizhongnice.github.io/m3u/iptv_3_CQYX.m3u)
-- [iptv_3_Best](https://shizhongnice.github.io/m3u/iptv_3_Best.m3u)
+- 摸鱼儿接口
+- 香雅情接口
+- 饭太硬接口
+- 菜妮丝接口
+- 动漫城接口
+- HG接口
+- 欧歌接口
+- 聚玩盒子4k
+- 肥猫接口
+- 聚玩盒子
+- 毒盒接口
+- dxawi接口
+- PG接口
+- 潇洒接口
+- 俊佬接口
+- 小苹果接口
+- 王小二放牛娃
+- 宝盒接口
+- 讴歌多仓
+- 云星日记
+- 毒盒多仓
+- 应用多多多仓
+- 应用多多多线路
+- 天微多仓
 
-### TVBox影视仓
+### TVBox接口列表
 
 + 自用线路
 
@@ -88,7 +108,6 @@
 
   - 摸鱼接口：http://www.wya6.cn/tv/yc.php
 
-
 + 单仓(ok影视)
 
   - 自用：https://shizhongnice.github.io/ck.json
@@ -113,11 +132,21 @@
   - 讴歌多仓：https://欧歌.e.nxog.top/api.php?id=1
 
 
-### github代理加速方式
+### m3u直播资源接口列表
+
++ 自用
+  - [gat_20231205](https://shizhongnice.github.io/m3u/gat_20231205.m3u)
+  - [iptv_ipv6](https://shizhongnice.github.io/m3u/iptv_ipv6.m3u)
+  - [iptv_3_IPV6](https://shizhongnice.github.io/m3u/iptv_3_IPV6.m3u)
+  - [iptv_3_CQYX](https://shizhongnice.github.io/m3u/iptv_3_CQYX.m3u)
+  - [iptv_3_Best](https://shizhongnice.github.io/m3u/iptv_3_Best.m3u)
+
+
+### github代理加速
 
 + https://github.com/用户名/仓库/raw/main/m.json
 
-    - 香港  
+    - 香港
     https://raw.kkgithub.com/用户名/仓库/main/m.json  
     - 韩国
     https://ghproxy.com/https://raw.githubusercontent.com/用户名/仓库/main/m.json    
