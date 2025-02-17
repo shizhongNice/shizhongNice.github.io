@@ -55,17 +55,91 @@
 - [iptv_3_CQYX](https://shizhongnice.github.io/m3u/iptv_3_CQYX.m3u)
 - [iptv_3_Best](https://shizhongnice.github.io/m3u/iptv_3_Best.m3u)
 
-### TVBox
+### TVBox影视仓
 
-- 主接口: https://shizhongnice.github.io/tvbox.json
-- APP： https://shizhongnice.github.io/tvbox/app.json
-- 饭太硬fan：https://shizhongnice.github.io/tvbox/fan.json
-- 蜂蜜：https://shizhongnice.github.io/tvbox/fongmi.json
-- 饭太硬fty：https://shizhongnice.github.io/iptv/fty/fty.json
-- 香雅情：https://shizhongnice.github.io/iptv/XYQ/XYQTVBox.json
-- 道长: https://shizhongnice.github.io/iptv/XYQ/drpy_js/drjs_config.json
-- qiaoji: https://shizhongnice.github.io/iptv/XYQ/qiaoji/qjtvbox.json
-- Yoursmile: https://shizhongnice.github.io/iptv/XYQ/Yoursmile/XC.json
++ 自用线路
+
+  - 接口: https://shizhongnice.github.io/tvbox.json  
+
+
++ 大佬线路
+
+  - 饭太硬：http://www.饭太硬.com/tv
+
+  - 讴歌: https://xn--dkw0c.e.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌
+
+  - 蜂蜜：https://shizhongnice.github.io/tvbox/fongmi.json
+
+  - 肥猫接口: http://肥猫.com
+
+  - 喵影视: http://meowtv.top/tv
+
+  - OK猫接口: http://ok321.top/ok
+
+  - 放牛娃接口: http://tv.999888987.xyz
+
+  - 毒盒影视库: https://tv.youdu.fan:666/毒盒影视/
+
+  - 道长接口： https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json
+
+  - 俊佬线路：http://home.jundie.top:81/top98.json
+
+  - 七星：https://tvkj.top/tw/api.json
+
+  - 摸鱼接口：http://www.wya6.cn/tv/yc.php
+
+
++ 单仓(ok影视)
+
+  - 自用：https://shizhongnice.github.io/ck.json
+
+  - 欧歌: https://xn--dkw0c.e.nxog.top/nxog/ou1.php?b=欧歌
+  
+  - 欧歌备用: https://2.nxog.eu.org/nxog/ou1.php?b=欧歌
+
+  - 挺好分享：http://ztha.top/TVBox/GYCK.json
+
+  - 蚂蚁影视多仓库：https://pan.miaogongzi.net/f/pNFE/%E8%9A%82%E8%9A%81%E4%BB%93%E5%BA%931.txt
+ 
+  - 恒星影视仓库： http://530.my3v.work/hxck.json
+  
+  - 心动影视多仓库：http://530.my3v.work/xdck.json
+
+
++ 多仓(影视仓)
+
+  - 自用：https://shizhongnice.github.io/dc.json
+
+  - 讴歌多仓：https://欧歌.e.nxog.top/api.php?id=1
+
+
+### github代理加速方式
+
++ https://github.com/用户名/仓库/raw/main/m.json
+
+    - 香港  
+    https://raw.kkgithub.com/用户名/仓库/main/m.json  
+    - 韩国
+    https://ghproxy.com/https://raw.githubusercontent.com/用户名/仓库/main/m.json    
+    https://gh-proxy.com/https://raw.githubusercontent.com/用户名/仓库/main/m.json   
+    - 日本    
+    https://ghproxy.net/https://raw.githubusercontent.com/用户名/仓库/main/m.json   
+    https://fastly.jsdelivr.net/gh/用户名/仓库@main/m.json   
+    - 美国
+    https://raw.fgit.cf/用户名/仓库/main/m.json
+    - 其他
+    https://gcore.jsdelivr.net/gh/用户名/仓库@main/m.json   
+    https://jsdelivr.b-cdn.net/gh/用户名/仓库@main/m.json   
+    https://github.moeyy.xyz/https://raw.githubusercontent.com/用户名/仓库/main/m.json  
+
++ Github国内  
+   - 🔰浏览器扩展🐒油猴插件　https://www.tampermonkey.net/   
+   - 🔰🐵脚本库greasyfork　https://greasyfork.org/zh-CN/scripts   
+   - 🔰Github加速神器2.1.4   
+  Watt Toolkit 🧰 (原名 Steam++)　Watt Toolkit 官网　
+   - 🔰GitHub 中文化插件　https://greasyfork.org/zh-CN/scripts/435208   
+   - 🔰Github 高速下载增强　https://greasyfork.org/zh-CN/scripts/412245  
+
 
 ## 最后的话
 
